@@ -1,0 +1,15 @@
+.wrapper_main{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+} 
+.wrapper_table{
+	grid-template-columns: 10% 30% 30% 30%;
+	border:  0px;
+} 
+.table_item_group,
+.table_item_date,
+.header_group,
+.header_date {
+	display: none;
+}
